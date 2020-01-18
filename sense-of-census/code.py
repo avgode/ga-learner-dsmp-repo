@@ -28,6 +28,10 @@ age_std = np.std(age)
 
 print("max_age:",max_age,"min_age:",min_age,"age_mean:",age_mean,"age_std:",age_std)
 
+if age_mean > 15:
+    print("Young country")
+else:
+    print("Old country")
 
 # --------------
 #Code starts here
