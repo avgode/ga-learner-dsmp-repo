@@ -39,7 +39,7 @@ income	                                                                         
 
 ### Learnings from the project
 
- After completing this project, I will have a better grip on working with numpy. In this project, I have applied the following concepts:
+  After completing this project, I will have a better grip on working with numpy. In this project, I have applied the following concepts:
 
 Array Appending
 Array Slicing
